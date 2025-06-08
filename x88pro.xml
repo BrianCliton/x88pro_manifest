@@ -5,7 +5,7 @@
   <project path="device/amlogic" name="BrianCliton/device_amlogic_x88pro" remote="github" />
 
   <!-- Vendor -->
-  <project path="vendor/amlogic" name="BrianCliton/vendor_amlogic_x88pro" remote="github" />
+  <project path="vendor" name="BrianCliton/vendor_amlogic_x88pro" remote="github" />
 
   <!-- Hardware -->
   <project path="hardware/amlogic" name="BrianCliton/hardware_amlogic_x88pro" remote="github" />
